@@ -1,13 +1,196 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.9">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1935" dy="1477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2740" dy="1906" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="IB-_C2SJejtQMWPd-VHK-107" value="AI" style="swimlane;startSize=22;horizontal=1;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="-11" y="-272" width="1510" height="1573" as="geometry">
+        <mxCell id="IB-_C2SJejtQMWPd-VHK-107" value="AI" style="swimlane;startSize=22;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="-658" y="-951" width="1510" height="1573" as="geometry">
             <mxRectangle x="-11" y="-272" width="84" height="26" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-6" target="7fND8VKzAuEoDEqp9dkJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-6" target="7fND8VKzAuEoDEqp9dkJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-6" value="集合通信" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#FFB366;" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="106" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-7" value="通信原语" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="275" y="265" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-8" value="理论公式" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="272" y="80" width="83" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-7" target="7fND8VKzAuEoDEqp9dkJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="945" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-10" value="一对一" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="394" y="170" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-10" target="7fND8VKzAuEoDEqp9dkJ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-12" value="Send" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="517.5" y="175" width="67" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-10" target="7fND8VKzAuEoDEqp9dkJ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-14" value="Recv" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="518" y="206" width="66" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-10" target="7fND8VKzAuEoDEqp9dkJ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-16" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;BatchSendRecv&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;BatchSendRecv&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="518" y="240" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-7" target="7fND8VKzAuEoDEqp9dkJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="216" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-18" value="一对多" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="386" y="401" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="216" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-20" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Broadcast&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;Broadcast&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="501" y="276" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-22" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Broadcast&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;Scatter&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="509" y="316" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-24" value="Reduce" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="508" y="356" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-24" target="7fND8VKzAuEoDEqp9dkJ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-26" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内所有Rank的数据进行归约后，再发送到root Rank上&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;&lt;span&gt;将通信域内所有Rank的数据进行归约后，再发送到root Rank上&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="356" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-28" value="Allgather" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="505" y="396" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-28" target="7fND8VKzAuEoDEqp9dkJ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="322" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-30" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内所有Rank的输入按照RankId从小到大顺序拼接起来，再将结果汇聚到所有Rank&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;将通信域内所有Rank的输入按照RankId从小到大顺序拼接起来，再将结果汇聚到所有Rank&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="396" width="517" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-31" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Broadcast&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内root Rank的数据广播到其它Rank&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;将通信域内root Rank的数据广播到其它Rank&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="276" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-20" target="7fND8VKzAuEoDEqp9dkJ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729" y="323" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-33" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Broadcast&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内的root Rank数据均分到其它Rank&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;将通信域内的root Rank数据均分到其它Rank&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="316" width="275" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-22" target="7fND8VKzAuEoDEqp9dkJ-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729" y="323" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-36" value="Allreduce" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="504" y="436" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-36" target="7fND8VKzAuEoDEqp9dkJ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-38" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内所有Rank的输入数据进行归约操作后（支持sum、prod、max、min），再把结果发送到所有Rank&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;将通信域内所有Rank的输入数据进行归约操作后（支持sum、prod、max、min），再把结果发送到所有Rank&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="436" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-40" value="ReduceScatter" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="501" y="476" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-40" target="7fND8VKzAuEoDEqp9dkJ-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-42" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;将通信域内所有rank的输入进行归约操作（支持sum、prod、max、min），并且把结果按照rank编号均匀分散在各个rank&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;将通信域内所有rank的输入进行归约操作（支持sum、prod、max、min），并且把结果按照rank编号均匀分散在各个rank&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="476" width="672" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-43" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="324" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-44" value="AlltoAll" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="501" y="516" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-45" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-44" target="7fND8VKzAuEoDEqp9dkJ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="324" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-46" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;向通信域内所有Rank发送相同数据量的数据，并从所有Rank接收相同数据量的数据&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;向通信域内所有Rank发送相同数据量的数据，并从所有Rank接收相同数据量的数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="516" width="479" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-18" target="7fND8VKzAuEoDEqp9dkJ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="324" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-48" value="AlltoAllV" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="497" y="556" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="IB-_C2SJejtQMWPd-VHK-107" source="7fND8VKzAuEoDEqp9dkJ-48" target="7fND8VKzAuEoDEqp9dkJ-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="618" y="324" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fND8VKzAuEoDEqp9dkJ-50" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;向通信域内所有Rank发送数据，并从所有Rank接收数据，数据可以不相等&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;向通信域内所有Rank发送数据，并从所有Rank接收数据，数据可以不相等&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="IB-_C2SJejtQMWPd-VHK-107">
+          <mxGeometry x="631" y="556" width="431" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
